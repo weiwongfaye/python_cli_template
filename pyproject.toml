@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python_cli_template"
+version = "0.1.0"
+description = ""
+authors = ["Jack Wang <weiwongfaye@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+colorama = "^0.4.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
