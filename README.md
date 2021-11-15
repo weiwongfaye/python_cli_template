@@ -1,5 +1,9 @@
-# python_cli_template
-cookie cutter for python cli template
+# Python CLI Template
+
+Cookie cutter for python cli 
+
+-----
+
 
 High level
 
